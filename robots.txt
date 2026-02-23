@@ -1,0 +1,26 @@
+# robots.txt for Gemilang Makrab
+# https://gemilangmakrab.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://gemilangmakrab.com/sitemap.xml
+
+# Disallow admin and private directories
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all crawlers to access all public pages
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Allow image indexing
+User-agent: Googlebot-Image
+Allow: /images/

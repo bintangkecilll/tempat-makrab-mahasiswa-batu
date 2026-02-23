@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://gemilangmakrab.com/</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://gemilangmakrab.com/images/hero.png</image:loc>
+            <image:title>Tempat Makrab Mahasiswa di Batu Malang</image:title>
+            <image:caption>Pemandangan alam Batu Malang sebagai tempat makrab mahasiswa terbaik</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Blog Listing -->
+    <url>
+        <loc>https://gemilangmakrab.com/blog.html</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Blog Article 1 -->
+    <url>
+        <loc>https://gemilangmakrab.com/tempat-makrab-mahasiswa-terbaik-di-batu-malang.html</loc>
+        <lastmod>2026-02-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://gemilangmakrab.com/images/hero.png</image:loc>
+            <image:title>Tempat Makrab Mahasiswa Terbaik di Batu Malang</image:title>
+        </image:image>
+    </url>
+
+    <!-- Blog Article 2 -->
+    <url>
+        <loc>https://gemilangmakrab.com/rekomendasi-villa-makrab-murah-di-batu.html</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://gemilangmakrab.com/images/villa-makrab.png</image:loc>
+            <image:title>Rekomendasi Villa Makrab Murah di Batu</image:title>
+        </image:image>
+    </url>
+
+    <!-- Blog Article 3 -->
+    <url>
+        <loc>https://gemilangmakrab.com/paket-makrab-mahasiswa-lengkap-di-batu-malang.html</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://gemilangmakrab.com/images/outdoor-activity.png</image:loc>
+            <image:title>Paket Makrab Mahasiswa Lengkap di Batu Malang</image:title>
+        </image:image>
+    </url>
+
+    <!-- Blog Article 4 -->
+    <url>
+        <loc>https://gemilangmakrab.com/tips-memilih-tempat-makrab-yang-seru-di-batu.html</loc>
+        <lastmod>2026-02-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://gemilangmakrab.com/images/campfire.png</image:loc>
+            <image:title>Tips Memilih Tempat Makrab yang Seru di Batu</image:title>
+        </image:image>
+    </url>
+
+    <!-- Blog Article 5 -->
+    <url>
+        <loc>https://gemilangmakrab.com/kegiatan-makrab-outdoor-di-batu-malang.html</loc>
+        <lastmod>2026-02-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://gemilangmakrab.com/images/rafting.png</image:loc>
+            <image:title>Kegiatan Makrab Outdoor Seru di Batu Malang</image:title>
+        </image:image>
+    </url>
+
+</urlset>
